@@ -1,5 +1,4 @@
-Hi i'm Tjculpin :D
-  
+hello :)
 
 <!---
 Tjculpin/Tjculpin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
